@@ -22,6 +22,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".hw1.Mvp2TalkActivity" />
         <activity android:name=".mvc0.Mvc0TalkActivity" />
         <activity android:name=".frp0.Frp0TalkActivity" />
         <activity android:name=".frp3.Frp3TalkActivity"/>
